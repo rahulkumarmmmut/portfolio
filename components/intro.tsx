@@ -64,7 +64,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I&apos;m Rahul Kumar.</span> I'm a{" "}
         <span className="font-bold">
-          Security Analyst and Penetration Tester
+          Security Analyst
         </span>{" "}
         <span>and</span> <span className="font-bold">Penetration Tester</span>{" "}
         with <span className="font-bold">2 years</span> of experience. I enjoy
