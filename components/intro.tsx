@@ -6,9 +6,8 @@ import { motion } from "framer-motion";
 import Link from "next/link";
 import { BsArrowRight, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
-import { FaGithubSquare } from "react-icons/fa";
+import { FaGithubSquare, FaMediumM } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
-import { FaMedium } from "react-icons/fa6";
 import { useActiveSectionContext } from "@/context/active-section-context";
 
 export default function Intro() {
@@ -122,7 +121,7 @@ export default function Intro() {
           href="https://rahulk2903.medium.com/"
           target="_blank"
         >
-          <FaMedium />
+          <FaMediumM />
         </a>
       </motion.div>
     </section>
