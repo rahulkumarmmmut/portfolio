@@ -57,7 +57,7 @@ export const experiencesData = [
       "Worked to facilitate classroom learning for over 80 students every semester, including assignment and exam grading and feedback, conducting office hours, outlook email replies etc.",
     ],
     icon: React.createElement(LuGraduationCap),
-    date: "2022 - Present",
+    date: "Jan 2022 - Dec 2023",
   },
   {
     title: "Virtually Testing Foundation",
