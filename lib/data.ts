@@ -49,6 +49,18 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
+
+   {
+    title: "George Mason University",
+    location: ["Graduate Research Assistant", "Fairfax, VA, USA"],
+    description: [
+      "Actively involved in the development and execution of innovative research programs in Applied Information Technology and Data Analytics, collaborating closely with supervisors and leading researchers to refine large-scale assessment methodologies.",
+      "Spearhead the creation of multimedia content and oversee the management of project websites, contributing to the effective dissemination and presentation of research findings.",
+      "Play a critical role in the research process through comprehensive data collection and analysis, supporting team efforts in reporting and enhancing research designs to apply cutting-edge technologies and analytical techniques.",
+    ],
+    icon: React.createElement(LuGraduationCap),
+    date: "Feb 2023 - Present",
+  },
   {
     title: "George Mason University",
     location: ["Graduate Teaching Assistant", "Fairfax, VA, USA"],
@@ -60,43 +72,32 @@ export const experiencesData = [
     date: "Jan 2022 - Dec 2023",
   },
   {
-    title: "Virtually Testing Foundation",
+    title: "Cyber3ra",
     location: [
-      "Cyber Security Intern and Enterprise Tester",
-      "Remote - California, USA",
+      "Cyber Security Intern",
+      "Remote - New Delhi, India",
     ],
     description: [
-      "Participated in the VT Cyber Security Internship to gain industry-level expertise in Kubernetes, hands-on VMware virtualization, and Network Security through Kube Academy courses and real-time bug identification.",
-      "Earned promotion to Enterprise Tester and worked on the docker, MITRE ATT&CT Navigator and Cyber Kill Chain to find application. Also found bugs on AttackIQ courses.",
+      "Enhanced vulnerability assessments for premier clients, introducing methods that escalated detection efficiency by 25%.",
+      "Enriched cybersecurity training, effectively mentoring over 100 participants in cutting-edge digital security best practices, markedly boosting their security proficiency.",
     ],
     icon: React.createElement(CgWorkAlt),
-    date: "Jan 2021 - Apr 2021",
+    date: "May 2021 - Aug 2021",
   },
   {
-    title: "Bluefire Redteam LLP",
+    title: "JSC Golla Engineering Pvt Ltd",
     location: [
-      "Vulnerability Assessment and Penetration Testing Intern",
-      "Remote - Gujarat, India",
+      "Security Analyst",
+      "Remote - Delhi, India",
     ],
     description: [
-      "Gained expertise in Vulnerability assessment, Penetration Testing, troubleshooting and Post-exploitation.",
-      "Contributed to the company's website content with 2 research blogs and a case study and delivered a mainframe talk at a company event with excellent communication skills.",
-    ],
-    icon: React.createElement(FaReact),
-    date: "Apr 2021 - June 2021",
-  },
-  {
-    title: "Haryana Police",
-    location: [
-      "Cybersecurity Gurugram Police Internship",
-      "Remote - Haryana, India",
-    ],
-    description: [
-      "Participated in a rigorous boot camp conducted by the police IT cell covering essential modern-day cyber security standards and practices.",
-      " Attended expert-delivered talks and lectures on topics spanning Social Media Crimes and Security, Financial Fraud, Cloud Security, Cryptocurrency Investigation, and Cyber Law.",
+      "Optimized and maintained metrics and reports on vulnerability assessments, implementing best security strategies that reduced cyber-attacks by ~13%. ",
+      "Expertly analyzed and monitored SIEM alerts with IBM QRadar and Splunk, elevating threat detection by ~10% through advanced network and log data analysis, significantly enhancing cybersecurity defenses.",
+      "Directed investigations into malicious email, led vulnerability assessments, coordinating with internal teams to identify threats. Conducted security training for 50+ staff, enhancing organizational security awareness.",
+      "Spearheaded technical support and revitalized vulnerability management program, driving continuous improvements, and proposing effective mitigation and remediation solutions. ",
     ],
     icon: React.createElement(CgPolaroid),
-    date: "June 2021 - July 2021",
+    date: "June 2019 - Apr 2021",
   },
 ] as const;
 
@@ -108,7 +109,7 @@ export const educationData = [
       "Fairfax, Virginia, United States",
     ],
     description: [
-      "GPA: 3.8/4.0",
+      "GPA: 3.75/4.0",
       "Relevant Coursework: Computer Networking, Hardware and Cyber-Physical Systems, Cybersecurity Engineering Fundamentals, Cloud Computing Security, Malware Reverse Engineering, Secure Software Programming, Penetration Testing and Digital Forensics, etc.",
     ],
     icon: React.createElement(LuGraduationCap),
