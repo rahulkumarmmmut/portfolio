@@ -17,25 +17,18 @@ export default function About() {
       transition={{ delay: 0.175 }}
       id="about"
     >
-      <SectionHeading>About me</SectionHeading>
-      <p className="mb-3">
-        <span className="font-medium">Rahul Kumar</span> is a cybersecurity
-        professional specializing in{" "}
-        <span className="font-bold">Web Application Security</span>,{" "}
-        <span className="font-bold">Network Security</span>, and{" "}
-        <span className="font-bold">Penetration Testing</span>. Currently
-        pursuing a Master&apos;s in{" "}
-        <span className="font-bold">Cybersecurity Engineering</span> and{" "}
-        <span className="font-bold">Information Systems</span> at George Mason
-        University in Virginia. Rahul holds a profound interest in{" "}
-        <span className="italic">threat hunting</span> and employs automation
-        tools for <span className="italic">data protection</span>. He actively
-        engages in extensive research on{" "}
-        <span className="italic">
-          data privacy and the exposure of sensitive information
-        </span>
-        .
-      </p>
+     <SectionHeading>About me</SectionHeading>
+    <p className="mb-3">
+      <span className="font-medium">Rahul Kumar</span> is a cybersecurity
+      professional specializing in <span className="font-bold">Web Application Security</span>, 
+      <span className="font-bold">Network Security</span>, and <span className="font-bold">Penetration Testing</span>. 
+      He recently completed his master's degree from <span className="font-bold">George Mason University</span>, 
+      Virginia, USA, in <span className="font-bold">Cybersecurity Engineering</span>, a program ranked in the nation's top 10. 
+      Rahul holds a profound interest in <span className="italic">threat hunting</span> and employs automation tools for 
+      <span className="italic">data protection</span>. He actively engages in extensive research on 
+      <span className="italic">data privacy and the exposure of sensitive information</span>.
+    </p>
+
 
       <p>
         In addition to his academic pursuits, Rahul has been serving as a{" "}
