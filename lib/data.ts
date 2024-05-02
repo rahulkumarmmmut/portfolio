@@ -136,7 +136,7 @@ export const projectsData = [
     description:
       "A comprehensive tool for identifying vulnerabilities and gathering critical security information to enhance system protection.",
     tags: ["Python", "Socket", "Subprocess"],
-    imageUrl: SRS,
+    imageUrl:SRS,
     gitLink: [
       "https://github.com/rahulkumarmmmut/SecurityReconSuite",
     ],
@@ -146,7 +146,7 @@ export const projectsData = [
     description:
       "An android application for a music store that needs to develop a customer loyalty program supported by an Oracle database backend.",
     tags: ["Java", "JSP", "Android Development", "Oracle", "SQL"],
-    imageUrl: android,
+    imageUrl:android,
     gitLink: [
       "https://github.com/rahulkumarmmmut/Android-Application--Music-Store",
     ],
