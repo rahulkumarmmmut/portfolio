@@ -131,6 +131,16 @@ export const educationData = [
 ] as const;
 
 export const projectsData = [
+   {
+    title: "Security Recon Suite",
+    description:
+      "A comprehensive tool for identifying vulnerabilities and gathering critical security information to enhance system protection.",
+    tags: ["Python", "Socket", "Subprocess"],
+    imageUrl: SecRecon,
+    gitLink: [
+      "https://github.com/rahulkumarmmmut/SecurityReconSuite",
+    ],
+  },
   {
     title: "Android Music Store",
     description:
@@ -142,7 +152,7 @@ export const projectsData = [
     ],
   },
   {
-    title: "MyPass Manager",
+    title: "MyPass Manage",
     description:
       "MyPass is a python application used for storing website login information, offering password generation and search functionality.",
     tags: ["Python", "JSON", "Tkinter"],
