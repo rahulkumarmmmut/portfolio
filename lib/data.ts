@@ -10,6 +10,7 @@ import securityknowledge from "@/public/securityknowledge.png";
 import eccouncil from "@/public/eccouncil.png";
 import mta1 from "@/public/mta1.png";
 import mta2 from "@/public/mta2.png";
+import srs from "@/public/srs.png";
 import colordetector from "@/public/colordetector.jpeg";
 
 export const links = [
