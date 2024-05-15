@@ -136,7 +136,7 @@ export const projectsData = [
     description:
       "A comprehensive tool for identifying vulnerabilities and gathering critical security information to enhance system protection.",
     tags: ["Python", "Socket", "Subprocess"],
-    imageUrl:SRS,
+    imageUrl:srs,
     gitLink: [
       "https://github.com/rahulkumarmmmut/SecurityReconSuite",
     ],
