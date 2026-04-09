@@ -34,6 +34,17 @@ export default function Home() {
       <Certificates />
       <Skills />
       <Contact />
+      <section className="mt-6 mb-10 text-center text-sm">
+        <span className="font-medium">Updated portfolio:</span>{" "}
+        <a
+          href="https://mason.gmu.edu/~rkumar25/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-2 hover:text-blue-600"
+        >
+          https://mason.gmu.edu/~rkumar25/
+        </a>
+      </section>
     </main>
   );
 }
